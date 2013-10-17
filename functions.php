@@ -67,7 +67,7 @@ function my_wfx_theme_config() {
 			/* All parameters */
 			array (
 				"name" => "Above sidebar",
-				"description" => "Drag widgets here to be shown below the sidebar on all pages.",
+				"description" => "Drag widgets here to be shown above the sidebar on all pages.",
 				"location" => "wfsidebar_before_all",
 				"container" => "div",
 				"containerclass" => "widget-box",
